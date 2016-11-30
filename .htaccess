@@ -1,0 +1,5 @@
+ErrorDocument 400 http://www.AR-3.cf/error/error.html
+ErrorDocument 401 http://www.AR-3.cf/error/error.html
+ErrorDocument 403 http://www.AR-3.cf/error/error.html
+ErrorDocument 404 http://www.AR-3.cf/error/error.html
+ErrorDocument 500 http://www.AR-3.cf/error/error.html

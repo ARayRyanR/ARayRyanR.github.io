@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+
+Disallow:/project.mobirise
+Disallow:/about/project.mobirise
+Disallow:/design/project.mobirise
+Disallow:/error/project.mobirise
+Disallow:/other/project.mobirise
+Disallow:/photo/project.mobirise
