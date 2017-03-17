@@ -1,0 +1,206 @@
+{
+  "settings": {
+    "name": "AR-3 Error",
+    "currentPage": "error.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#303030",
+        "secondaryColor": "#e5e5e5",
+        "successColor": "#b3b3b3",
+        "infoColor": "#808080",
+        "warningColor": "#4d4d4d",
+        "dangerColor": "#1a1a1a",
+        "titleFont": "Roboto Condensed",
+        "subtitleFont": "Open Sans",
+        "textFont": "Open Sans",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.png",
+    "noImageResize": "true",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-84550267-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "versionFirst": "3.8.5",
+    "uniqCompNum": 7,
+    "versionPublish": "3.9.2",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///D:/Cloud%20Storage/Dropbox/Apps/Pancake.io/AR-3/error"
+  },
+  "pages": {
+    "error.html": {
+      "settings": {
+        "main": true,
+        "title": "AR-3 ",
+        "meta_descr": "Page Error you can leave message or visit AR-3 on facebook, deviantart or instagram.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#808080"
+            }
+          },
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 AR-3 Visual Art.<br>Any content in this website is copyrighted by AR-3 and/or their proprietary owner. All rights reserved.<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-5",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/slider-banner.svg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "14px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#000000"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/slider-error.svg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#ffffff",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">ERROR</span><br>ACCESSING<br>AR-3<br><br><br>",
+          "text": "<span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\"><br></span><br><span style=\"line-height: 1.5;\"><br></span><br><span style=\"line-height: 1.5;\"><br></span><br><span style=\"font-weight: bold; line-height: 1.5;\">You can't acces the page because of one the following reason:</span><br>Page you try to visit is forbidden [ 403 ]<br>URL you request is not found [ 404 ]<br>Internal server error/under maintenance [ 500 ]<br><br><b>Please back to previous page or visit link below </b>:<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://fb.com/ARayRyanR\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://AR-3.DeviantArt.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-deviantart mbr-iconfont mbr-iconfont-btn\"></span></a>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "form1-3",
+          "_params": {
+            "labelsColor": "#c1c1c1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT ME",
+          "subtitle": "If you want to leave message you can contact us here.",
+          "form": {
+            "action": "ar_3@rocketmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form! We'll reply you soon..."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        }
+      ]
+    }
+  }
+}

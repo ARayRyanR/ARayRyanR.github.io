@@ -429,10 +429,6 @@ h6,
 }
 
 
-#msg-box6-60 .mbr-section-title,
-#msg-box6-60 .lead p {
-  color: #fff;
-}
 #footer1-4 P {
   font-size: 12px;
 }
@@ -499,6 +495,10 @@ h6,
 #ext_menu-7 .link[aria-expanded="true"],
 #ext_menu-7 .dropdown-item[aria-expanded="true"] {
   color: #808080!important;
+}
+#header3-66 .mbr-section-title,
+#header3-66 .mbr-section-subtitle {
+  text-align: center;
 }
 #header3-5y .mbr-section-title,
 #header3-5y .mbr-section-subtitle {

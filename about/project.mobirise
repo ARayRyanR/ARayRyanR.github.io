@@ -1,0 +1,1051 @@
+{
+  "settings": {
+    "name": "AR-3 About",
+    "currentPage": "faq.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#808080",
+        "secondaryColor": "#101010",
+        "successColor": "#cccccc",
+        "infoColor": "#ff5b30",
+        "warningColor": "#ff3500",
+        "dangerColor": "#cc2b00",
+        "titleFont": "Roboto Condensed",
+        "subtitleFont": "Roboto",
+        "textFont": "Open Sans",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-35.png",
+    "noImageResize": "true",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-84550267-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n",
+    "versionFirst": "3.9.2",
+    "uniqCompNum": 36,
+    "versionPublish": "3.9.2",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///D:/Cloud%20Storage/Dropbox/Apps/Pancake.io/AR-3/about"
+  },
+  "pages": {
+    "faq.html": {
+      "settings": {
+        "main": true,
+        "title": "AR-3 Visual Art FAQ",
+        "meta_descr": "More information and frequently asked question about AR-3.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#808080!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-4.svg",
+              "height": 128,
+              "alt": "AR-3 Logo",
+              "link": "frontier.html",
+              "title": "AR-3 Visual Art",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">| AR-3 VISUAL ART</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/about/faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/about/contact.html\">CONTACT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DESIGN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/design/identity.html\">IDENTITY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/design/graphic.html\">GRAPHIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/design/interface.html\">INTERFACE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PHOTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/photo/scape.html\">SCAPE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/photo/nature.html\">NATURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/photo/human.html\">HUMAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/photo/object.html\">OBJECT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/ARayRyanR/photos/?tab=album&amp;album_id=697358463749608\">MEME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/pg/ARayRyanR/photos/?tab=album&amp;album_id=697358463749608&amp;ref=page_internal&amp;mt_nav=1\">OFFER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">LINK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://fb.com/ARayRyanR\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://AR-3.deviantART.com\"><span class=\"socicon socicon-deviantart mbr-iconfont mbr-iconfont-btn\"></span>DEVIANTART</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>FACEBOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-deviantart mbr-iconfont mbr-iconfont-btn\"></span>DEVIANTART</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>INSTAGRAM</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#151515",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 AR-3 Visual Art.<br>Any content in this website is copyrighted by AR-3 and/or their proprietary owner. All rights reserved.<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "DIV": {
+              "font-size": "12px",
+              "color": "#c1c1c1"
+            },
+            "H2": {
+              "font-size": "12px",
+              "color": "#c1c1c1"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box1-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/slider-faq-mid.svg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "// AR-3 Visual Art // About<div>// Frequently Asked Question</div>",
+          "title": "F . A . Q"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content1-6",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>ABOUT ME</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-7",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>What is AR-3 ?</b></p><p><span style=\"line-height: 1.5;\">AR-3 stand for A Ray Ryan R, my pen name to be used and known over internet. I use AR-3 as my personal trademark, however sometimes it is also stand for a team that working under my wing. My real name is Ryan Aditya P. W., as visual artist, my artwork ranged from corporate identity, graphic design, interface, photography, icon, illustration, etc. I do these as part of my hobby and freelance, most of the time my artwork can't be published officialy because I work as ghost designer. I believe visual art can be used to express feeling, while visual design can be used to manipulate other.</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-8",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Are you experienced ?</b></p><p>I start this all since my highschool, with Adobe Photoshop CS, in 2005 for student council with the trial and error of my self taught. Then I become a part of Indonesia art institute, ISI Yogyakarta, in 2008 to expand my knowledge about visual art. There, I learn art theory and other graphic related software. In 2009 local clothing company hire my as a ghost designer &amp; photographer for their product until 2012. Since then, I become hiatus as a designer, but still somewhile I do freelance and helping local community or small company to grow with graphic design. Most of the artwork and design that I already made is related to the hobby, while other is for commercial purpose.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-9",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>What softwares do you use?</b></p><p>In the box of my specialty is including Adobe Photoshop, Adobe Illustration &amp; Adobe Indesign. I also use other Adobe software, Corel Draw, Google Sketchup, &amp; Manga Studio. These software is to be used integrated since they have their own benefical. Out of the box as a support or more specific purpose, I also use software from microsoft, stardock, audacity, axialis, etc. Sometimes I also use software from not widely known company such as a shedko from Russia, or even use non direct design related software such notepat++ and hex editor which more familiar to the web coder/programmer rather than designer.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>What style your art is?</b></p><p>Probably simple &amp; clean. In my highschool I'm expressing my self with graffiti, clipping and I like colorfull art. However after I learn art theory, especially for graphic design, I'm more focused to the flow of visual reading, readibility/clarity, point of interest and focus, thus make my art more simple than ever. Especially, simplicity can bring integrity and better performance for multipurpose in this digital/information era. I'm also influenced by modern/profesional look in flat design, with traditional idealism still in the mind, such as symbolic meaning and detail.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content1-b",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>SERVICE</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-c",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>How can I use your service?</b></p><p>You can simply contact me with available option. I'm prefer to work via facebook messenger/email for small project, and maybe call or meeting if it's unexplainable via message. If you want to be simple contact me for the first time, you can go to contact page and leave message there, we will reply soon.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-d",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>What kind of service I can get from you?</b></p><p>1. Graphic design, from book layout, banner, id card, poster, flyer, book cover, etc.&nbsp;</p><p>2. Visual identity, including logo, corporate identity, and even visual branding strategy.</p><p>3. Interface design, from website design, website layout, wallpaper, application theme, button, icon, etc.</p><p>4. Other type visual art, including photography and manual artwork like painting, may only for commission or local work only.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-e",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>How much do you charge?</b></p><p>Starting from FREE. Yes, you read it right, AR-3 design service is starting from free. It is really conditional and I don't have fixed price because unlike selling product, I need to understand what is your need and how difficult or time consuming it is. If you're wondering why I charge start from free, one of the reason is if you're charity organization. If you wanted to know average rate, you can read it below, but it is not fixed price.</p><p><br></p><p>Average rate :</p><p>Simple artwork it is normally cost under $50. Poster, bussiness card, banner, etc.</p><p>Book layout normally cost around $50-$100.</p><p>Website design will cost more than $100.</p><p>Interface design cost more than $30. Icons, web layout, application shell, etc.</p><p>Photography average rate is depend on equipment and assitant need and how time consuming it is.</p><p>Other type of artwork is dependant. The cost above isn't fixed price and your'e welcome to negotiate.</p><p>Logo cost around $50-150, $150-$300, and +$300. That is depend on wether you just need simple logo, corporate identity or even branding strategy.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-f",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>How long it is take for one project to finish?</b></p><p>Depend on the workloadout I have (queue list), and how big your project. Normally I need about few days or few weeks, except for large project it may take more than a month. There wil be agreement before we start the project.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-g",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>What about workflow?</b></p><p>Very important thing is the brainstorming process trough discussion. If you're overseas client, we're need to chat in English (Sorry if my english isn't good). Then start sketching/drafting, for the art work. At this point you make decision wether to continue or discontinue your project with me. If you agree to the terms and condition, to continue, here you need to process the payment, half of the pricing we agree. I'll finish the artwork soon, and show you the finished product. After you pay the rest, you'll get the hi-definition artwork immediately.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-h",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>I'm in hurry, can you do express design?</b></p><p>Well, ofcourse. If you have commission or small project, it is better to pay per hour. This system able you to trim the charge, in other word, cheaper. Normally for example, ID card, poster, banner, button, icon, may just need to be finished in 1-3 hours, some even need less than 30 minutes. The charge is only US$3-5/hour, no more than that. So let say you want ID card and I finish it in 30 minutes, you'll only get charged for 1 hour, pay me $3, that is all. Simple and easy. Maximal pay/hours system, is 42 hours, othwerwise you better paid per project service because you can get cheaper price.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content1-i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>PRIVACY, TERMS &amp; PAYMENT</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-j",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Privacy Policy</b></p><p>Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our privacy policy.</p><p><br></p><ul><li>Any personal information you provide us with, including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals. Work in progress project will also not be published, so it will be secret until released date. The only time we would share your contact information is when we refer your business to our team, unless mentioned so.&nbsp;</li><li>Except when I'm hired as ghost designer, you're agree that we are able to publish your name/company name, city location, and some project detail to be part of AR-3 portfolio. Your privacy and security are our top priority.</li><li>Similar to other commercial websites, our website utilizes a standard technology called 'cookies' (see explanation below) and server logs to collect information about how our site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our site, and the websites visited just before and just after our own, as well as your IP address.</li></ul></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-k",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Terms &amp; Condition</b></p><p>By using our service, you're agree to the following terms and condition:</p><ul><li>All services provided by the AR-3 shall be for the exclusive use of the client other than for the promotional use.</li><li>The client are agree to paid half of the agreed fee right after sketch/draft of the project has been delivered to the client. The client shall be entitled to full ownership of all final artwork created during the project upon full payment of the agreed fee.</li><li>Client are agree to do not refund any payment that has been made because of cancellation after project commencement by client after sketch/draft has been delivired.</li><li>If after project commencement client communication (face-to-face, telephone, or email) stops for a period of 60 days, the project can be cancelled by AR-3. Any atwork that has been made, ownership of all copyrights shall be retained by designer.</li><li>AR-3 has the right to do cancellation of the project at any time. If cancellationof the project is made by AR-3, client has right to refund any payment has been paid to AR-3, according to the ageement.</li><li>AR-3 has the right to change any privacy policy at any time with notification updated in AR-3 official website (http://www.AR-3.cf). Any licensee agreement, terms and condition of the project that has been start before the change will retain.</li></ul></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Payment</b></p><p>Payment can be made using paypal, especially for overseas client. For local client, payment can be delivered directly/using local bank transfer which is more useful.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content1-m",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>ADDITIONAL INFORMATION ABOUT ART &amp; DESIGN</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Why design taking time?</b></p><p>Think about design like cooking. Cooking need proper ingredients, procedure, and correct time to cook. Information is the ingredients and different design need different ingridients. Procedure for cooking is basic in design, let say skip some procedure, it will look and taste different. Correct time to cook like brainstorming, too hasty may left better idea slip. Skip any of them, you'll get template like design which isn't special made and not healthy for you, just like junk food.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-o",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>What if I can get cheaper service than you?</b></p><p>You can go to other designer if you think they're better suit you. Just like a food, junk food is cheap because they're to be mass produced (template like design). In logo for example there's bunch of template like design, you can even google it with easy. This case normally happened in free design, super cheap design, and especially design contest. I'm sure, people with same principle which aim quality design and taking time to brainstorming and carefully process will not giving them self to be paid cheaper than me, more professional they're will be more expensive they put their service price, because they stake their reputation on it.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#808080",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px",
+              "color": "#232323"
+            },
+            "UL": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "content2-p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Still has more question?</b></p><p>Try to get in touch with me, you can send message via e-mail or line. To make sure your message don't go into spam folder, i recommend you to add subject \"Visual Art\" to your e-mail.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "color": "#101010"
+            }
+          },
+          "_anchor": "msg-box1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"./contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"../frontier.html\" data-toolbar=\"-mbrBtnMove\">BACK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "CONTACT ME NOW?"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "title": "AR-3 Visual Art Contact",
+        "meta_descr": "You can get contact information about AR-3 here or simply leave message."
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#808080!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-q",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-4.svg",
+              "height": 128,
+              "alt": "AR-3 Logo",
+              "link": "frontier.html",
+              "title": "AR-3 Visual Art",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">| AR-3 VISUAL ART</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/about/faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/about/contact.html\">CONTACT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DESIGN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/design/identity.html\">IDENTITY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/design/graphic.html\">GRAPHIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/design/interface.html\">INTERFACE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PHOTO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/photo/scape.html\">SCAPE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/photo/nature.html\">NATURE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/photo/human.html\">HUMAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.AR-3.cf/photo/object.html\">OBJECT</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">OTHER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/ARayRyanR/photos/?tab=album&amp;album_id=697358463749608\">MEME</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/pg/ARayRyanR/photos/?tab=album&amp;album_id=697358463749608&amp;ref=page_internal&amp;mt_nav=1\">OFFER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">LINK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://fb.com/ARayRyanR\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://AR-3.deviantART.com\"><span class=\"socicon socicon-deviantart mbr-iconfont mbr-iconfont-btn\"></span>DEVIANTART</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>FACEBOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-deviantart mbr-iconfont mbr-iconfont-btn\"></span>DEVIANTART</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>INSTAGRAM</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-r",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#151515",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 AR-3 Visual Art.<br>Any content in this website is copyrighted by AR-3 and/or their proprietary owner. All rights reserved.<br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#c1c1c1",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgColor": "#000000",
+            "showMeta": false
+          },
+          "title": "AR-3 VISUAL ART",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-t",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/slider-contact.svg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content1-w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<p><b>CONTACT</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>ADDRESS</strong><br>Jl. Buana Raya gg. Buana Asri no.8A<br>Denpasar, Bali, 80117<br><br>Jl. Imogiri Barat km.4,5 no.42A<br>Ngancar, Yogyakarta, 55187<br><br><br>\n<strong>CONTACT</strong><br>Phone\t: +62 857 0110 1551<br>Email\t: ar_3@rocketmail.com<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>http://www.AR-3.cf</li><li>http://fb.com/ArayRyanR</li><li>http://www.AR-3.deviantART.com</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ar_3@rocketmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "12px"
+            },
+            "P": {
+              "font-size": "12px",
+              "color": "#c1c1c1"
+            }
+          },
+          "_anchor": "content2-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<blockquote><p>* Sometimes direct e-mail will go to spam folder, I suggest to write your message up here.</p><p>* If you don't get replay within 48 hours after left me message, maybe I'm not available for the moment. Check other links above/contact my facebook page.</p><p>* Be careful and consider it is fraud, if you receive message from other that has been mentioned above.</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-y",
+          "_params": {
+            "googleMap": {
+              "address": "Jl. Buana Raya gg. Buana Asri no.8A\nDenpasar, Bali, 80117",
+              "placeId": "ChIJ-UVoQ01H0i0RyKiMA7jLIV8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "color": "#101010"
+            }
+          },
+          "_anchor": "msg-box1-z",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"./faq.html\" data-toolbar=\"-mbrBtnMove\">FAQ</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"../frontier.html\" data-toolbar=\"-mbrBtnMove\">BACK</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "DID YOU READ THE FAQ?"
+        }
+      ]
+    }
+  }
+}
